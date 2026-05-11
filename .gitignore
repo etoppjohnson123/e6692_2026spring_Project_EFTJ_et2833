@@ -1,0 +1,8 @@
+.Trash-0/
+weights_HITL/
+weights_1/
+data_HITL/
+data_1/
+*.pth
+*.pt
+*.ckpt
